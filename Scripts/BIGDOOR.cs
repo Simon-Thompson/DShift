@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class BIGDOOR : MonoBehaviour {
+public class BigDoor : MonoBehaviour {
 	bool doorOpen;
 	bool doorClose;
 	Vector3 startingPosition;
