@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class spikeWallTrigger : MonoBehaviour {
+public class SpikeWallTrigger : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
